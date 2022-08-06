@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    height: 100%;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+#map{
+  height: 500px;
+  width: 100%;
+}
+.form-control{
+  display: inline-block;
+  width: auto;
+}
+.category{
+  display: none;
+}
